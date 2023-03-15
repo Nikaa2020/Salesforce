@@ -1,0 +1,4 @@
+"FIRST NAME","LAST NAME","TITLE","STATE","ACCOUNTID","ERROR"
+"Sam","Trace","Marketing Director","California","0013t00002cvYmiAAE","We can't save this record because the “Mailing State” process failed. Give your Salesforce admin these details. Probably Limit Exceeded or 0 recipients. Possible invalid email addresses: California
+ Error ID: 1203643793-139493 (-1785150955)recipients. Possible invalid email addresses: California
+ Error ID: 1203643793-139493 (-1785150955)"

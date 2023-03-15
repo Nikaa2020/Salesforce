@@ -1,0 +1,5 @@
+"ACCOUNT NAME","BILLING CITY","WEBSITE","BILLING STATE","RECORDTYPEID","ERROR"
+"Google Inc","San Fransisco","www.google.com","California","0123t000000ZK5mAAG","Use one of these records?"
+"Microsoft","San Fransisco","www.microsoft.com","California","0123t000000ZK6mAAG","Record Type ID: this ID value isn't valid for the user: 0123t000000ZK6mAAG"
+"Meta","New York","www.meta.com","New York","0123t000000ZK7mAAG","Record Type ID: this ID value isn't valid for the user: 0123t000000ZK7mAAG"
+"Apple Inc","Houston","www.apple.com","Texas","0123t000000ZK8mAAG","Record Type ID: this ID value isn't valid for the user: 0123t000000ZK8mAAG"

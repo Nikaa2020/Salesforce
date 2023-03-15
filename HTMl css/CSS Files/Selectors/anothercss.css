@@ -1,0 +1,19 @@
+h1{
+    color : chocolate;
+}
+
+#another{
+    color : blue;
+}
+
+p{
+    color : green;
+}
+
+p.para2{
+    color : indigo;
+}
+
+ul.para2{
+    color : crimson;
+}

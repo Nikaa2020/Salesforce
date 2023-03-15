@@ -1,0 +1,5 @@
+"ACCOUNT NAME","BILLING CITY","WEBSITE","BILLING STATE","RECORDTYPEID","ERROR"
+"Google Inc","San Fransisco","www.google.com","California","0123t000000ZJIIAA4","Use one of these records?"
+"Microsoft","San Fransisco","www.microsoft.com","California","0123t000000ZJIIAA5","Record Type ID: id value of incorrect type: 0123t000000ZJIIAA5"
+"Meta","New York","www.meta.com","New York","0123t000000ZJIIAA6","Record Type ID: id value of incorrect type: 0123t000000ZJIIAA6"
+"Apple Inc","Houston","www.apple.com","Texas","0123t000000ZJIIAA7","Record Type ID: id value of incorrect type: 0123t000000ZJIIAA7"

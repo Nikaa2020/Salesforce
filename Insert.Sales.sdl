@@ -1,0 +1,7 @@
+#Mapping values
+#Wed Jan 11 18:43:38 EST 2023
+Account\ Name=Name
+AccountIdnum=RecordTypeId
+Billing\ City=BillingCity
+Billing\ State=BillingState
+Website=Website
