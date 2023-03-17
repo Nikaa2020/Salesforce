@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Myproject",
+  "name": "ProjectGroup",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
